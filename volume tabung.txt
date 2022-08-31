@@ -1,0 +1,17 @@
+Tentukan algoritma dan pseudocode volume tabung (jari-jari = 3, tinggi = 5) !
+
+algoritma:
+Step 1 Mendeklarasikan volume, jari-jari, dan tinggi
+Step 2 Masukan phi = 3,14, jari-jari = 3, tinggi = 5
+Step 3 Menghitung volume = phi*jari-jari^2*tinggi
+Step 4 Menampilkan volume
+
+pseudocode:
+-deklarasi
+-var volume phi, jari-jari, tinggi
+-phi ← 3,14
+-jari-jari ← 3
+-tinggi ← 5
+-volume = phi*jari-jari^2*tinggi
+-write(volume)
+

@@ -1,0 +1,35 @@
+Algoritma
+while n = o do
+r <-m mod n
+m <-n
+n <-r
+return m
+
+cari kpk dari 3 dan 4
+tentukan algoritma dan pascoudenya
+step 1
+
+-fungsi untuk menukar dua variabel x dan y;
+define swap(x 4, y 6)
+buffer (4) = x (0)
+buffer menjadi 4, x menjadi 0
+x (6)= y (0)
+x menjadi 6, y menjadi 0 
+y (4)= buffer (6)
+y menjadi 4, buffer menjadi 6
+
+-Ada 2 buah: manggis dan pisang. Manggis di piring 1, Pisang di piring 2. Piring 3 kosong.
+-Buatlah algoritma dan pseudocode untuk menukar manggis ke piring 2 dan pisang ke piring 1!
+algoritma:
+-manggis dipindah ke piring kosong, piring 1 menjadi kosong
+-pisang dipindah ke piring 1, piring 2 menjadi kosong
+-
+define swap(piring 1(x), piring 2(y))
+piring kosong(buffer) (1) = piring 1 (x)(0)
+piring kosong menjadi 1, piring 1 menjadi 0
+piring 1(X) (2) = piring 2(y) (0)
+piring 1 menjadi 2, piring 2 menjadi 0
+piring 2(y) (1) = piring kosong(buffer)(2)
+piring 2 menjadi 1, piring kosong menjadi 2
+
+
